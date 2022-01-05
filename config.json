@@ -1,0 +1,6 @@
+{
+    "upload_channel": "put channel id here",
+    "game_name": "put game name here",
+    "game_description": "put game description here",
+    "player_count": 100
+}
