@@ -205,4 +205,4 @@ setTimeout(function() {
   upload()
 }, 2000)
 
-client.login("ODM1MTg5NDU5MTQ1NzE5ODY4.YIL0zA.1OI0NlZgVeo_ECCblw1XnOxpEMw");
+client.login(config.bot_token);
